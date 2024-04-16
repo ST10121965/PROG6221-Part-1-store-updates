@@ -1,0 +1,14 @@
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\bin\Debug\FinalTask1.exe.config
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\bin\Debug\FinalTask1.exe
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\bin\Debug\FinalTask1.pdb
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\obj\Debug\FinalTask1.csproj.AssemblyReference.cache
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\obj\Debug\FinalTask1.csproj.CoreCompileInputs.cache
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\obj\Debug\FinalTask1.exe
+C:\Users\ramck\source\repos\FinalTask1\FinalTask1\obj\Debug\FinalTask1.pdb
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\bin\Debug\FinalTask1.exe.config
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\bin\Debug\FinalTask1.exe
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\bin\Debug\FinalTask1.pdb
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\obj\Debug\FinalTask1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\obj\Debug\FinalTask1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\obj\Debug\FinalTask1.exe
+C:\Users\lab_services_student\Documents\Code\Visual Studio 2022\FinalTask1\FinalTask1\obj\Debug\FinalTask1.pdb
